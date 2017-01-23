@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<con:testSuite name="HolidayServiceSoap TestSuite" id="92c9ec98-ce72-4ed3-aec8-1dca08218532" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="92c9ec98-ce72-4ed3-aec8-1dca08218532fileName">HolidayServiceSoap-TestSuite</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
